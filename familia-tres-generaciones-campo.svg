@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Tres generaciones de familia en campo de cereal</title>
+  <desc id="desc">Ilustracion de abuelo, padre e hijo en un campo de trigo.</desc>
+
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8cc9ff"/>
+      <stop offset="100%" stop-color="#e9f6ff"/>
+    </linearGradient>
+    <linearGradient id="field" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#d9ba5e"/>
+      <stop offset="100%" stop-color="#c49a34"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1400" height="900" fill="url(#sky)"/>
+  <rect y="500" width="1400" height="400" fill="url(#field)"/>
+
+  <circle cx="180" cy="140" r="48" fill="#ffd56a"/>
+
+  <g stroke="#b4872f" stroke-width="5" stroke-linecap="round" opacity="0.7">
+    <path d="M90 760 l20 -60"/>
+    <path d="M130 770 l18 -56"/>
+    <path d="M180 780 l22 -64"/>
+    <path d="M230 765 l20 -60"/>
+    <path d="M280 785 l24 -68"/>
+    <path d="M330 772 l20 -57"/>
+    <path d="M380 784 l22 -65"/>
+    <path d="M430 770 l18 -55"/>
+    <path d="M480 785 l20 -62"/>
+    <path d="M530 774 l19 -58"/>
+    <path d="M580 782 l23 -66"/>
+    <path d="M630 768 l19 -56"/>
+    <path d="M680 786 l24 -68"/>
+    <path d="M730 772 l20 -58"/>
+    <path d="M780 784 l21 -63"/>
+    <path d="M830 768 l18 -54"/>
+    <path d="M880 786 l23 -67"/>
+    <path d="M930 774 l20 -59"/>
+    <path d="M980 784 l21 -63"/>
+    <path d="M1030 770 l18 -55"/>
+    <path d="M1080 786 l24 -68"/>
+    <path d="M1130 774 l20 -58"/>
+    <path d="M1180 784 l22 -65"/>
+    <path d="M1230 770 l18 -55"/>
+    <path d="M1280 786 l24 -67"/>
+  </g>
+
+  <g transform="translate(540,300)">
+    <circle cx="0" cy="90" r="42" fill="#e8c29a"/>
+    <rect x="-38" y="135" width="76" height="140" rx="20" fill="#3b5f33"/>
+    <rect x="-85" y="165" width="47" height="20" rx="10" fill="#3b5f33"/>
+    <rect x="38" y="165" width="47" height="20" rx="10" fill="#3b5f33"/>
+    <rect x="-30" y="275" width="24" height="115" rx="12" fill="#2f3a2f"/>
+    <rect x="6" y="275" width="24" height="115" rx="12" fill="#2f3a2f"/>
+  </g>
+
+  <g transform="translate(700,270)">
+    <circle cx="0" cy="90" r="48" fill="#e8c29a"/>
+    <rect x="-45" y="140" width="90" height="165" rx="24" fill="#456f3b"/>
+    <rect x="-100" y="175" width="55" height="24" rx="12" fill="#456f3b"/>
+    <rect x="45" y="175" width="55" height="24" rx="12" fill="#456f3b"/>
+    <rect x="-36" y="305" width="28" height="130" rx="14" fill="#2f3a2f"/>
+    <rect x="8" y="305" width="28" height="130" rx="14" fill="#2f3a2f"/>
+  </g>
+
+  <g transform="translate(870,335)">
+    <circle cx="0" cy="82" r="36" fill="#e8c29a"/>
+    <rect x="-34" y="120" width="68" height="130" rx="18" fill="#588447"/>
+    <rect x="-74" y="145" width="40" height="18" rx="9" fill="#588447"/>
+    <rect x="34" y="145" width="40" height="18" rx="9" fill="#588447"/>
+    <rect x="-26" y="250" width="20" height="102" rx="10" fill="#2f3a2f"/>
+    <rect x="6" y="250" width="20" height="102" rx="10" fill="#2f3a2f"/>
+  </g>
+</svg>
